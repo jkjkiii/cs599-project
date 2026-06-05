@@ -1,0 +1,4 @@
+
+main_prompt_path: src/prompts/main_prompt.txt
+rag_summary_prompt_path: src/prompts/rag_summary_prompt.txt
+report_prompt_path: src/prompts/report_prompt.txt

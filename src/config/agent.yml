@@ -1,0 +1,5 @@
+AMAP_WEATHER_URL: "https://restapi.amap.com/v3/weather/weatherInfo"
+CITY_CODE_URL: "https://restapi.amap.com/v3/config/district"
+
+
+external_data_path: src/data/external/records.csv
