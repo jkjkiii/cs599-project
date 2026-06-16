@@ -18,7 +18,7 @@
 
 | 类别       | 选型                                                         |
 | ---------- | ------------------------------------------------------------ |
-| LLM        | 阿里云通义千问 Qwen3-Max (ChatTongyi)                        |
+| LLM        | 阿里云通义千问 Qwen3.7-Max (ChatTongyi)                        |
 | Embedding  | DashScope text-embedding-v4                                  |
 | Agent 框架 | LangGraph + LangChain (`create_agent`) + MCP (MultiServerMCPClient) |
 | 向量数据库 | Chroma (本地持久化)                                          |
